@@ -1,0 +1,11 @@
+\\mac\home\documents\visual studio 2015\Projects\BDD-SpecFlow\BDD-SpecFlow\bin\Debug\BDD-SpecFlow.dll.config
+\\mac\home\documents\visual studio 2015\Projects\BDD-SpecFlow\BDD-SpecFlow\bin\Debug\BDD-SpecFlow.dll
+\\mac\home\documents\visual studio 2015\Projects\BDD-SpecFlow\BDD-SpecFlow\bin\Debug\BDD-SpecFlow.pdb
+\\mac\home\documents\visual studio 2015\Projects\BDD-SpecFlow\BDD-SpecFlow\bin\Debug\nunit.framework.dll
+\\mac\home\documents\visual studio 2015\Projects\BDD-SpecFlow\BDD-SpecFlow\bin\Debug\TechTalk.SpecFlow.dll
+\\mac\home\documents\visual studio 2015\Projects\BDD-SpecFlow\BDD-SpecFlow\bin\Debug\nunit.framework.xml
+\\mac\home\documents\visual studio 2015\Projects\BDD-SpecFlow\BDD-SpecFlow\obj\Debug\BDD-SpecFlow.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\BDD-SpecFlow\BDD-SpecFlow\obj\Debug\BDD-SpecFlow.dll
+\\mac\home\documents\visual studio 2015\Projects\BDD-SpecFlow\BDD-SpecFlow\obj\Debug\BDD-SpecFlow.pdb
+\\mac\home\documents\visual studio 2015\Projects\BDD-SpecFlow\BDD-SpecFlow\bin\Debug\Calculatore.dll
+\\mac\home\documents\visual studio 2015\Projects\BDD-SpecFlow\BDD-SpecFlow\bin\Debug\Calculatore.pdb

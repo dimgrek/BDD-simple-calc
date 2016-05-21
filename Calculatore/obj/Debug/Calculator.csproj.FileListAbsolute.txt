@@ -1,0 +1,5 @@
+\\mac\home\documents\visual studio 2015\Projects\BDD-SpecFlow\Calculatore\bin\Debug\Calculatore.dll
+\\mac\home\documents\visual studio 2015\Projects\BDD-SpecFlow\Calculatore\bin\Debug\Calculatore.pdb
+\\mac\home\documents\visual studio 2015\Projects\BDD-SpecFlow\Calculatore\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\BDD-SpecFlow\Calculatore\obj\Debug\Calculatore.dll
+\\mac\home\documents\visual studio 2015\Projects\BDD-SpecFlow\Calculatore\obj\Debug\Calculatore.pdb
