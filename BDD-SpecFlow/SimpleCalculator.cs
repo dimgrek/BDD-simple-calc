@@ -19,7 +19,7 @@ namespace BDD_SpecFlow
     [System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     [NUnit.Framework.TestFixtureAttribute()]
     [NUnit.Framework.DescriptionAttribute("SpecFlowFeature1")]
-    public partial class SpecFlowFeature1Feature
+    public partial class SimpleCalculatorFeature
     {
         
         private TechTalk.SpecFlow.ITestRunner testRunner;

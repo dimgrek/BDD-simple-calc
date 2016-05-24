@@ -22,3 +22,15 @@
 \\Mac\Home\Documents\Visual Studio 2015\Projects\BDD-simple-calc\BDD-SpecFlow\obj\Debug\BDD-SpecFlow.csprojResolveAssemblyReference.cache
 \\Mac\Home\Documents\Visual Studio 2015\Projects\BDD-simple-calc\BDD-SpecFlow\obj\Debug\BDD-SpecFlow.dll
 \\Mac\Home\Documents\Visual Studio 2015\Projects\BDD-simple-calc\BDD-SpecFlow\obj\Debug\BDD-SpecFlow.pdb
+Y:\BDD-simple-calc\BDD-SpecFlow\bin\Debug\BDD-SpecFlow.dll.config
+Y:\BDD-simple-calc\BDD-SpecFlow\bin\Debug\BDD-SpecFlow.dll
+Y:\BDD-simple-calc\BDD-SpecFlow\bin\Debug\BDD-SpecFlow.pdb
+Y:\BDD-simple-calc\BDD-SpecFlow\bin\Debug\ATM.dll
+Y:\BDD-simple-calc\BDD-SpecFlow\bin\Debug\Calculatore.dll
+Y:\BDD-simple-calc\BDD-SpecFlow\bin\Debug\nunit.framework.dll
+Y:\BDD-simple-calc\BDD-SpecFlow\bin\Debug\TechTalk.SpecFlow.dll
+Y:\BDD-simple-calc\BDD-SpecFlow\bin\Debug\ATM.pdb
+Y:\BDD-simple-calc\BDD-SpecFlow\bin\Debug\Calculatore.pdb
+Y:\BDD-simple-calc\BDD-SpecFlow\bin\Debug\nunit.framework.xml
+Y:\BDD-simple-calc\BDD-SpecFlow\obj\Debug\BDD-SpecFlow.dll
+Y:\BDD-simple-calc\BDD-SpecFlow\obj\Debug\BDD-SpecFlow.pdb

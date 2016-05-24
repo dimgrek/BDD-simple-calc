@@ -6,7 +6,7 @@ using TechTalk.SpecFlow;
 namespace BDD_SpecFlow
 {
     [Binding]
-    public class SpecFlowFeature1Steps
+    public class SimpleCalculatorSteps
     {
         private Calculator calc = new Calculator();
         private int result { get; set; }
