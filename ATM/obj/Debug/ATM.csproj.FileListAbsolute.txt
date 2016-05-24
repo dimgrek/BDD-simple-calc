@@ -1,5 +1,0 @@
-\\Mac\Home\Documents\Visual Studio 2015\Projects\BDD-simple-calc\ATM\bin\Debug\ATM.dll
-\\Mac\Home\Documents\Visual Studio 2015\Projects\BDD-simple-calc\ATM\bin\Debug\ATM.pdb
-\\Mac\Home\Documents\Visual Studio 2015\Projects\BDD-simple-calc\ATM\obj\Debug\ATM.csprojResolveAssemblyReference.cache
-\\Mac\Home\Documents\Visual Studio 2015\Projects\BDD-simple-calc\ATM\obj\Debug\ATM.dll
-\\Mac\Home\Documents\Visual Studio 2015\Projects\BDD-simple-calc\ATM\obj\Debug\ATM.pdb
